@@ -1,2 +1,0 @@
-# mytest
-Reg.RU Blog
